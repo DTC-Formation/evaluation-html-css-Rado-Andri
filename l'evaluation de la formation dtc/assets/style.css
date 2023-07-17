@@ -176,8 +176,9 @@ position: relative;
 /* section 2 */
 #type{
   background: blue;
-  height: 300px;
-  width: 300px;
+  display: flex;
+  gap: 20px 20px;
+  align-items: center;
 }
 
 #image-2{
@@ -185,7 +186,8 @@ position: relative;
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
- height: 200px;
+ height: 100px;
+ width: 100px;
 }
 
 #image-3{
@@ -193,12 +195,14 @@ position: relative;
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
- height: 200px;
+ height: 100px;
+ width: 100px;
 }
 #image-4{
   background-image: url(./images/image-gaming-growth.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
- height: 200px;
+ height: 100px;
+ width: 100px;
 }

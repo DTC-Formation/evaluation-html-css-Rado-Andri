@@ -138,11 +138,11 @@ input[type="checkbox"]{
   #item-1 {
     background: transparent;
     width: 500px;
-    text-align: center;
+    text-align: justify;
   }
   
   #item-2 {
-    background: rebeccapurple;
+    background: black;
     width: 300px;
   }
   
@@ -151,7 +151,7 @@ input[type="checkbox"]{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: 180px;
   }
   
   #description {
@@ -204,3 +204,26 @@ input[type="checkbox"]{
     background-image: url(./images/image-gaming-growth.jpg);
   }
   
+
+  /* color des texts */
+  #orange{
+    font-size: large;
+    color: orange;
+  }
+  #white{
+    color: white;
+  }
+
+  #titre{
+    text-align: left ;
+  }
+
+
+  #gris{
+    color: gray;
+  }
+
+  #evolution{
+    font-size: 18px;
+  }
+

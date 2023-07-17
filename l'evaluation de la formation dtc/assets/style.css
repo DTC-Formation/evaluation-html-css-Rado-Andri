@@ -171,3 +171,34 @@ position: relative;
   height: 200px;
   width: 250px;
 }
+
+
+/* section 2 */
+#type{
+  background: blue;
+  height: 300px;
+  width: 300px;
+}
+
+#image-2{
+  background-image: url(./images/image-retro-pcs.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ height: 200px;
+}
+
+#image-3{
+  background-image: url(./images/image-top-laptops.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ height: 200px;
+}
+#image-4{
+  background-image: url(./images/image-gaming-growth.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ height: 200px;
+}
